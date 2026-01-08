@@ -1,3 +1,11 @@
+# Solidity / Hardhat / Thirdweb
+artifacts/
+cache/
+typechain/
+typechain-types/
+coverage/
+coverage.json
+.thirdweb/
 # Logs
 logs
 *.log
