@@ -1,2 +1,3 @@
+*.sol linguist-language=Solidity
 # Auto detect text files and perform LF normalization
 * text=auto
