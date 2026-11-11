@@ -1,0 +1,6 @@
+{
+  "name": "@openzeppelin/contracts",
+  "version": "0.0.0-verified-snapshot",
+  "private": true,
+  "description": "Imported Solidity files recovered with the verified Legacy6Coin source."
+}
