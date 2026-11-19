@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 768" role="img" aria-labelledby="title description">
+  <title id="title">Legacy6Coin Flame Sigil</title>
+  <desc id="description">Red flame enclosing the number six above the Legacy6Coin wordmark.</desc>
+  <rect width="768" height="768" fill="#ffffff"/>
+  <g fill="#c91f32">
+    <path d="M385 134c-5 0-21 24-33 43-25 40-43 76-44 117-7-9-14-18-22-29-6 18-29 45-49 68-15 18-30 53-30 88 0 88 79 145 178 145 99 0 178-57 178-145 0-35-15-70-30-88-20-23-43-50-49-68-8 11-15 20-22 29-1-41-19-77-44-117-12-19-28-43-33-43zm0 48c18 29 52 78 55 128l14 54 29-18c12-24 24-45 35-61 9 18 17 36 26 50 10 16 17 34 17 62 0 69-68 114-176 114S209 466 209 397c0-28 7-46 17-62 9-14 17-32 26-50 11 16 23 37 35 61l29 18 14-54c3-50 37-99 55-128z"/>
+    <path d="M452 264l-31 31c-46 46-62 71-65 109h-3c-2-51-25-83-68-83-42 0-72 34-72 77 0 50 36 82 89 82 69 0 111-46 111-119 0-42-17-68-44-89l83-8zm-151 69c27 0 45 20 45 51 0 33-21 56-51 56-25 0-43-17-43-41 0-28 20-66 49-66z"/>
+  </g>
+  <g fill="#c91f32" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    <text x="384" y="668" font-size="170" letter-spacing="-8">L6C</text>
+  </g>
+  <text x="384" y="742" fill="#c91f32" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="43" letter-spacing="10">LEGACY 6 COIN</text>
+</svg>

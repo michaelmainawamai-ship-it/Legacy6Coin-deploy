@@ -1,5 +1,14 @@
 # Legacy6Coin (L6C)
 
+## Official Branding
+
+Legacy6Coin uses the Legacy6Coin Flame Sigil as its official visual identity.
+
+![Legacy6Coin Flame Sigil](./assets/L6C-Sigil.png)
+
+- [Official Branding](./BRANDING.md)
+- [IPFS Preservation Plan](./IPFS_PRESERVATION_PLAN.md)
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.x-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Deployed%20on%20Sepolia-brightgreen.svg)
