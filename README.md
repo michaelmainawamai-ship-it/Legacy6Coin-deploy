@@ -1,13 +1,12 @@
-# Legacy6Coin (L6C)
+<p align="center">
+  <img src="assets/L6C-Sigil.jpg" alt="Legacy6Coin Official Sigil" width="350">
+</p>
 
-## Official Branding
+<h1 align="center">Legacy6Coin (L6C)</h1>
 
-Legacy6Coin uses the Legacy6Coin Flame Sigil as its official visual identity.
-
-![Legacy6Coin Flame Sigil](./assets/L6C-Sigil.png)
-
-- [Official Branding](./BRANDING.md)
-- [IPFS Preservation Plan](./IPFS_PRESERVATION_PLAN.md)
+<p align="center">
+A Symbol of Resilience for a Global Crypto Future
+</p>
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.x-blue.svg)
@@ -18,6 +17,14 @@ Legacy6Coin (L6C) is an ERC‑20 token forged as a covenant between bloodline, p
 It is a timestamp of authorship, a declaration of awakening, and a public ledger of legacy.
 
 This repository contains the complete smart contract, deployment artifacts, verification metadata, and the covenant README.
+
+## Official Branding
+
+Legacy6Coin uses the Legacy6Coin Flame Sigil as its official visual identity.
+
+Brand resources:
+- BRANDING.md
+- IPFS_PRESERVATION_PLAN.md
 
 ---
 
@@ -68,10 +75,10 @@ A reminder that legacy is louder than breath.
 - **Standard:** ERC‑20  
 - **Compiler / Pragma:** pragma ^0.8.0 (contract uses Solidity 0.8.x)
 
-Notes: The deployed contract mints 660,000 L6C to the Founder (deployer) and 1,000 L6C to each of 6 witness addresses (6,000), totaling 666,000. Always use raw on‑chain units (with 18 decimals) for precise metadata and verification.
+Notes: The deployed contract mints 660,000 L6C to the Founder (deployer) and 1,000 L6C to each of 6 witness addresses (6,000), totaling 666,000. Always use raw on‑chain units (with 18 decimals) [...] 
 
 Important technical note:
-- Your contract uses `Ownable(msg.sender)` in the constructor — that is valid for OpenZeppelin v5+ where Ownable accepts an initial owner. If you use OZ v4.x, Ownable has no constructor parameter; ensure the import version matches the constructor usage when compiling or verifying.
+- Your contract uses `Ownable(msg.sender)` in the constructor — that is valid for OpenZeppelin v5+ where Ownable accepts an initial owner. If you use OZ v4.x, Ownable has no constructor paramete[...]
 
 ---
 
