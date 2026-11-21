@@ -26,6 +26,7 @@ Mainnet deployment should occur only when readiness requirements are satisfied.
 
 ## Documentation
 
+- [ ] Recovery plan reviewed: [RECOVERY_PLAN.md](RECOVERY_PLAN.md)
 - README updated
 - SECURITY.md complete
 - TOKENOMICS.md complete
@@ -100,7 +101,7 @@ Proceed only after all identified conditions are explicitly accepted, assigned o
 
 ### NO-GO
 
-Do not deploy if readiness requirements remain unresolved, evidence is incomplete or inconsistent, security or governance concerns are unresolved, wallet controls are insufficient, or the final independent review does not approve proceeding.
+Do not deploy if readiness requirements remain unresolved, evidence is incomplete or inconsistent, security or governance concerns are unresolved, wallet controls are insufficient, or the final i[...]
 
 > "Transparency before deployment. Documentation before expansion. Stewardship before growth."
 
