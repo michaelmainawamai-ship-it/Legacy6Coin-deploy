@@ -99,6 +99,13 @@ Important technical note:
 
 ---
 
+## Documentation
+
+- [Contract Testing Log](TESTING_LOG.md)
+- [Mainnet Launch Checklist](MAINNET_LAUNCH_CHECKLIST.md)
+
+---
+
 ## 🚀 Deployment Notes
 - Sepolia deployment details are included in `Legacy6Coin/deploy/sepolia/deployment-metadata.json`.
 - The verified source and creation tx are linked above. Constructor takes no parameters.
