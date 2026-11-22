@@ -67,18 +67,18 @@ A reminder that legacy is louder than breath.
 ---
 
 ## 📜 Contract Details
-- **Name:** Legacy6Coin  
-- **Symbol:** L6C  
-- **Total Supply (human):** 666,000 L6C  
-- **Decimals:** 18  
-- **Total Supply (raw on-chain units):** 666000000000000000000000 (666,000 * 10**18)  
-- **Standard:** ERC‑20  
+- **Name:** Legacy6Coin
+- **Symbol:** L6C
+- **Total Supply (human):** 666,000 L6C
+- **Decimals:** 18
+- **Total Supply (raw on-chain units):** 666000000000000000000000 (666,000 * 10**18)
+- **Standard:** ERC‑20
 - **Compiler / Pragma:** pragma ^0.8.0 (contract uses Solidity 0.8.x)
 
-Notes: The deployed contract mints 660,000 L6C to the Founder (deployer) and 1,000 L6C to each of 6 witness addresses (6,000), totaling 666,000. Always use raw on‑chain units (with 18 decimals) when interacting with this contract or writing scripts. Do not assume that an exchange UI or off‑chain service will always normalize this correctly.
+Notes: The deployed contract mints 660,000 L6C to the Founder (deployer) and 1,000 L6C to each of 6 witness addresses (6,000), totaling 666,000. Always use raw on-chain units (with 18 decimals) when interacting with token balances and amounts.
 
 Important technical note:
-- Your contract uses `Ownable(msg.sender)` in the constructor — that is valid for OpenZeppelin v5+ where Ownable accepts an initial owner. If you use OZ v4.x, Ownable has no constructor parameter and `Ownable(msg.sender)` would be invalid. Do not mix different major OpenZeppelin versions.
+- Your contract uses `Ownable(msg.sender)` in the constructor — that is valid for OpenZeppelin v5+ where Ownable accepts an initial owner. If you use OZ v4.x, Ownable has no constructor parameter; use the matching OpenZeppelin version when compiling.
 
 ---
 
@@ -101,6 +101,7 @@ Important technical note:
 
 ## Documentation
 
+- [Project Registry](PROJECT_REGISTRY.md)
 - [Recovery Plan](RECOVERY_PLAN.md)
 - [Contract Testing Log](TESTING_LOG.md)
 - [Mainnet Launch Checklist](MAINNET_LAUNCH_CHECKLIST.md)
