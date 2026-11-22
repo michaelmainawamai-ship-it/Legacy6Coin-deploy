@@ -102,6 +102,7 @@ Important technical note:
 ## Documentation
 
 - [Project Registry](PROJECT_REGISTRY.md)
+- [Wallet Architecture](WALLET_ARCHITECTURE.md)
 - [Recovery Plan](RECOVERY_PLAN.md)
 - [Contract Testing Log](TESTING_LOG.md)
 - [Mainnet Launch Checklist](MAINNET_LAUNCH_CHECKLIST.md)

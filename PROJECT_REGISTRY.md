@@ -54,6 +54,7 @@ The latest GitHub release could not be retrieved automatically. Update these fie
 - [MAINNET_LAUNCH_CHECKLIST.md](MAINNET_LAUNCH_CHECKLIST.md)
 - [DEPLOYMENT_RISK_REGISTER.md](DEPLOYMENT_RISK_REGISTER.md)
 - [RECOVERY_PLAN.md](RECOVERY_PLAN.md)
+- [WALLET_ARCHITECTURE.md](WALLET_ARCHITECTURE.md)
 - [BRANDING.md](BRANDING.md)
 - [ROADMAP.md](ROADMAP.md)
 - [FAQ.md](FAQ.md)

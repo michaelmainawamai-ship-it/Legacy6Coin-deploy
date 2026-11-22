@@ -24,9 +24,10 @@ Mainnet deployment should occur only when readiness requirements are satisfied.
 - Treasury wallet separated
 - Founder wallet reviewed
 
-## Documentation
+## Documentation Readiness
 
 - [ ] Recovery plan reviewed: [RECOVERY_PLAN.md](RECOVERY_PLAN.md)
+- [ ] Wallet architecture reviewed: [WALLET_ARCHITECTURE.md](WALLET_ARCHITECTURE.md)
 - README updated
 - SECURITY.md complete
 - TOKENOMICS.md complete
